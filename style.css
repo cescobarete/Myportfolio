@@ -1,0 +1,13 @@
+body {
+    border-style: solid;
+    border-color: rgb(90, 11, 121);
+    width: 1000px
+}
+
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center
+}
