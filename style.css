@@ -1,17 +1,13 @@
 body {
-    background: rgb(150, 87, 209); 
-    border-style: solid;
-    border-color: rgb(180, 157, 157);
+    background-color: lightgrey;
 }
 
 h1 {
+    background-color: black;
+    color: white;
+    text-shadow: 2px 2px blue;
     text-align: center;
     font-variant: small-caps;
-}
-
-p {
-    text-align: center;
-    background: rgb(180, 157, 157);
-    padding: 1em 2em;
-    font-family: fantasy; 
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
 }
